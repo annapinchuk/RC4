@@ -33,10 +33,9 @@ The `if __name__ == '__main__':` block demonstrates how to use the code. It gene
 
 1. **Dependencies:**
     - Python 3.x
-    - Ensure the required libraries are installed by running: `pip install -r requirements.txt`
-
+    - 
 2. **Run the Example:**
-    - Execute the script by running: `python script.py`
+    - Execute the script by running: `python RC4.py`
     - This will generate a random 40-bit key, encrypt a sample plaintext using RC4, and attempt to recover the key through a parallelized brute-force attack.
 
 3. **Customization:**
