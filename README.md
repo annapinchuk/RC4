@@ -12,11 +12,11 @@ This repository contains a simple implementation of the RC4 encryption algorithm
 
 ## RC4 Encryption
 
-The `rc4.c` file provides a basic implementation of the RC4 encryption algorithm. It initializes the RC4 state with a random key and encrypts a known plaintext message.
+The `RC4_e.c` file provides a basic implementation of the RC4 encryption algorithm. It initializes the RC4 state with a random key and encrypts a known plaintext message.
 
 ## Brute-Force Attack
 
-The `brute_force_attack.c` file demonstrates a brute-force attack on the RC4 encryption. It attempts to recover the encryption key by encrypting the known plaintext with all possible keys and checking for a match with the given ciphertext.
+The `RC4_d.c` file demonstrates a brute-force attack on the RC4 encryption. It attempts to recover the encryption key by encrypting the known plaintext with all possible keys and checking for a match with the given ciphertext.
 
 ## Demonstration
 
