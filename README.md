@@ -20,7 +20,7 @@ The `RC4_d.c` file demonstrates a brute-force attack on the RC4 encryption. It a
 
 ## Demonstration
 
-![Demonstration](demonstration.jpeg)
+![Demonstration](demo.jpeg)
 
 The demonstration image visually explains the workflow of the RC4 encryption and the brute-force attack.
 
